@@ -59,6 +59,9 @@ https://floating-coast-69034.herokuapp.com/
 
 - Improve image load time on the landing page using Cloudinary
 
+## Clone and download this repository
+
+[https://github.com/Khdave02/YelpCamp.git](https://github.com/Khdave02/YelpCamp.git)
 
 
 
