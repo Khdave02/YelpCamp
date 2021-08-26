@@ -2,9 +2,6 @@
 # YelpCamp
 
 A Node.js web application project from the Udemy course - The Web Developer Bootcamp by Colt Steele
-![YelpCamp - Google Chrome 26-08-2021 18_59_22](https://user-images.githubusercontent.com/87975841/130974076-782a6933-556a-4523-a712-d6f7603f868c.png)
-![YelpCamp - Google Chrome 26-08-2021 19_00_11](https://user-images.githubusercontent.com/87975841/130974346-9eb11698-f7d6-4d0b-b636-bee1e42da397.png)
-![YelpCamp - Google Chrome 26-08-2021 19_00_22](https://user-images.githubusercontent.com/87975841/130974465-3569f4cf-b189-4651-b4db-b62a0bc90867.png)
 
 ## Demo
 
